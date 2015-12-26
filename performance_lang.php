@@ -26,8 +26,8 @@ if(!defined('VIRTUALIZOR')){
 
 }
 
-$l['<title>'] = 'Performance ';
-$l['cpuhead'] = 'CPU Usage' ;
-$l['ramhead'] = 'RAM Usage';
+$l['<title>'] = '性能 ';
+$l['cpuhead'] = 'CPU使用情况' ;
+$l['ramhead'] = '内存使用情况';
 
 ?>
