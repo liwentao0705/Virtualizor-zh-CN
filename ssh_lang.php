@@ -27,6 +27,6 @@ if(!defined('VIRTUALIZOR')){
 }
 
 $l['<title>'] = 'SSH';
-$l['notice'] = 'SSh will only work if java is installed and enabled';
+$l['notice'] = '亲，要想要SSH运行，浏览器需要安装并启用JAVA呢';
 
 ?>
