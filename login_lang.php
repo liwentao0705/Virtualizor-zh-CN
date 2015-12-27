@@ -26,26 +26,26 @@ if(!defined('VIRTUALIZOR')){
 
 }
 
-$l['no_username'] = 'The Username field was empty';
-$l['no_password'] = 'The Password field was empty';
+$l['no_username'] = '您没填用户名';
+$l['no_password'] = '您没填密码';
 $l['too_many_attempts'] = 'You have used up your failed login quota of '.$globals['login_attempts'].' failed attempts! <b>Please wait '.$globals['login_ban_time'].' minutes before trying again.</b> Don\'t forget that the password is case sensitive. Forgotten your password? Please try the <a href="'.$globals['index'].'act=login&sa=fpass">Forgot Password</a> utility.';
 
-$l['<title>'] = 'Login';
-$l['sign_in'] = 'Sign in';
-$l['log_user'] = 'Email or Username';
-$l['log_pass'] = 'Password';
-$l['login'] = 'Login';
-$l['sub_but'] = 'Login';
+$l['<title>'] = '登录';
+$l['sign_in'] = '登录';
+$l['log_user'] = '邮箱或用户名';
+$l['log_pass'] = '密码';
+$l['login'] = '登录';
+$l['sub_but'] = '登录';
 
-$l['<title_fpass>'] = 'Forgot Password';
-$l['pass_nomatch'] = 'The username or password you entered is incorrect.';
-$l['forgotpass'] = 'Forgot Password';
-$l['emailuser'] = 'Email Address';
-$l['enteremail'] = 'Enter your email address';
-$l['sub_email'] = 'Submit';
-$l['no_email'] = 'You did not submit your email address';
-$l['invalidemail'] = 'The email address you submitted is invalid';
-$l['mail_sub'] = 'Reset Password';
+$l['<title_fpass>'] = '忘记密码';
+$l['pass_nomatch'] = '您输入的密码好像不太对的样子';
+$l['forgotpass'] = '忘记密码';
+$l['emailuser'] = '邮箱';
+$l['enteremail'] = '请输入您的邮箱';
+$l['sub_email'] = '提交';
+$l['no_email'] = '您还没提交邮箱呢';
+$l['invalidemail'] = '您提交的邮箱好像不太对的样子';
+$l['mail_sub'] = '重置密码';
 $l['mail_body'] = 'Hi,
 						
 A request to reset your password has been made.
