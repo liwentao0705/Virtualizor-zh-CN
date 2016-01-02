@@ -26,29 +26,29 @@ if(!defined('VIRTUALIZOR')){
 
 }
 
-$l['adu_no_user_email'] = 'You did not enter the Email ID';
-$l['adu_no_user_password'] = 'You did not enter the Password';
-$l['adu_invalid_email'] = 'The Email ID you have entered is invalid';
-$l['adu_userlimit_exceeded'] = 'You are not allowed to create more users. Please contact the Administrator';
+$l['adu_no_user_email'] = '您没有输入电子邮箱';
+$l['adu_no_user_password'] = '您没有输入密码';
+$l['adu_invalid_email'] = '您输入的电子邮箱是错误的';
+$l['adu_userlimit_exceeded'] = '您不能再创建新的VPS了，如有问题请联系管理员';
 
 //Theme Settings
-$l['adu_page_head'] = 'Add User';
-$l['adu_done'] = 'User has been added';
-$l['adu_user_email'] = 'Email';
-$l['adu_user_password'] = 'Password';
+$l['adu_page_head'] = '添加用户';
+$l['adu_done'] = '已成功添加用户';
+$l['adu_user_email'] = '电子邮箱';
+$l['adu_user_password'] = '密码';
 
-$l['no_user_email'] = 'You did not enter the Email ID';
-$l['no_user_password'] = 'You did not enter the Password';
-$l['invalid_email'] = 'The Email ID you have entered is invalid';
-$l['userlimit_exceeded'] = 'You are not allowed to create more users. Please contact the Administrator';
-$l['user_exists'] = 'The user already exists. Please enter a different email';
+$l['no_user_email'] = '您没有输入邮箱';
+$l['no_user_password'] = '您没有输入密码';
+$l['invalid_email'] = '您输入的电子邮箱是错误的';
+$l['userlimit_exceeded'] = '您不能再创建新的VPS了，如有问题请联系管理员';
+$l['user_exists'] = '用户已存在。请换一个电子邮箱';
 //Theme Settings
-$l['<title>'] = 'Add User';
-$l['page_head'] = 'Add User';
-$l['add_user'] = 'Add User';
-$l['done'] = 'User has been added';
-$l['user_email'] = 'Email';
-$l['user_password'] = 'Password';
-$l['submit_button'] = 'Add User';
+$l['<title>'] = '添加用户';
+$l['page_head'] = '添加用户';
+$l['add_user'] = '添加用户';
+$l['done'] = '已成功添加用户';
+$l['user_email'] = '电子邮件';
+$l['user_password'] = '密码';
+$l['submit_button'] = '添加用户';
 
 ?>
