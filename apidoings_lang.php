@@ -26,8 +26,8 @@ if(!defined('VIRTUALIZOR')){
 
 }
 
-$l['<title>'] = 'API Actions';
-$l['heading'] = 'API Actions';
+$l['<title>'] = 'API 动作';
+$l['heading'] = 'API 动作';
 
 
 
